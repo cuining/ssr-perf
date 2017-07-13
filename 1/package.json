@@ -1,0 +1,19 @@
+{
+  "name": "ssr-perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "NODE_ENV=production node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "benchmark": "^2.1.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
