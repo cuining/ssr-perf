@@ -1,6 +1,6 @@
 # ssr-perf
 
-## normal
+## baseline
 ![](./0/result.png)
 
 ## production mode

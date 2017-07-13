@@ -12,7 +12,7 @@ const render = () => {
 
 const suite = new Benchmark.Suite()
 
-suite.add({ name: 'Baseline', fn: render })
+suite.add({ name: 'baseline', fn: render })
 
 suite
   .on('complete', function() {
