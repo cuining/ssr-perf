@@ -5,3 +5,6 @@
 
 ## production mode
 ![](./1/result.png)
+
+## babel transforms
+![](./2/result.png)
